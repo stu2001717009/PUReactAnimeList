@@ -5,6 +5,6 @@ export class AnimeModel {
   public score: string;
   public url: string;
   public total_episodes: string;
-  public start_date: any;
-  public end_date: any;
+  public start_date: string;
+  public end_date: string;
 }
